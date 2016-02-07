@@ -1,4 +1,4 @@
-# password-manager-node-js
+# Node js Password Manager
 
 
 This node js passowrd manager allows you to store passwords on your machine locally. It uses node persist, yagar and crypto modules for data storage, user input and encryption respectively.
