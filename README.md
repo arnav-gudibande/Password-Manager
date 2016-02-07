@@ -9,19 +9,19 @@ All credentials and passwords are stored securely using a unique encryption form
 
 Navigate into the folder where you have downloaded this file.
 
-Then create an account:
+Then view the instrucutions on creating an account:
 
 ```javascript
   node app.js create
 ```
 
-Then follow the instructions and specify credentials like this:
+Then create an account by specifying credentials:
 
 ```javascript
   node app.js create -n name -u exampleusername -p password123 -m master123
 ```
 
-To retrieve an account:
+To retrieve a previously created account:
 
 ```javascript
   node app.js get -n name -m master123
